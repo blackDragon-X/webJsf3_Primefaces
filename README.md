@@ -1,4 +1,4 @@
-Descripción Español:
+# Descripción Español:
 
 Proyecto: CRUD JSF3 de Productos, migración de JSF3 a PrimeFaces basado en JSF3.
 
@@ -20,7 +20,7 @@ Documentación completa:
 descripcionProyecto_es.pdf
 
 
-Description English:
+# Description English:
 
 Project: Product CRUD using JSF3, with migration to PrimeFaces based on JSF3.
 
