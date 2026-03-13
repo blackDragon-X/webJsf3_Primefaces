@@ -25,12 +25,12 @@ Description:
 Creation of a Product CRUD application using JSF3. Later, it was migrated to PrimeFaces based on JSF3. The entire application was built using Jakarta EE 9.
 
 Technologies:
-   - Jakarta 9
-   - JSF3
-   - PrimeFaces
-   - PostgreSQL
-   - Git
-   - GitHub
+    - Jakarta 9
+    - JSF3
+    - PrimeFaces
+    - PostgreSQL
+    - Git
+    - GitHub
 
 Full documentation:
 descriptionProject_en.pdf
